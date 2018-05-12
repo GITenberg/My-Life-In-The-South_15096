@@ -1,0 +1,26 @@
+_repo: My-Life-In-The-South_15096
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stroyer, Jacob
+    birthdate: 1849
+    deathdate: 1908
+    gutenberg_agent_id: '5853'
+    url: http://www.gutenberg.org/2009/agents/5853
+description: ''
+gutenberg_issued: '2005-02-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15096'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Slavery -- South Carolina'
+- !lcc 'E300'
+title: My Life In The South
+url: http://www.gutenberg.org/ebooks/15096
